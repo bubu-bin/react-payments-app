@@ -3,7 +3,7 @@ export const data = [
     id: 1,
     name: 'Sean Walsh',
     amount: 2099.99,
-    img: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+    img: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
     date: '17/07/2021',
   },
   {
@@ -17,14 +17,14 @@ export const data = [
     id: 3,
     name: 'Lola Gardner',
     amount: 458.22,
-    img: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
+    img: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
     date: '24/02/2021',
   },
   {
     id: 4,
     name: 'Bertie Yates',
     amount: 6000.69,
-    img: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+    img: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
     date: '12/12/2020',
   },
   {
